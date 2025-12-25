@@ -83,9 +83,10 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["var(--font-sans)"],
+        sans: ["'Rajdhani'", "sans-serif"],
         serif: ["var(--font-serif)"],
-        mono: ["var(--font-mono)"],
+        mono: ["'JetBrains Mono'", "monospace"],
+        display: ["'Oxanium'", "display"],
       },
       keyframes: {
         "accordion-down": {
